@@ -1,0 +1,35 @@
+/*Resetando a formatação padrão*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:blanchedalmond ; 
+    font-family: 'Raleway', sans-serif;
+}
+
+.container{
+    width: min(100vw, 800px);
+    margin: auto;
+}
+/*Header -----------------------------------------*/ 
+header {
+    background-color: lightcoral; 
+    padding: 3rem 0 10rem;
+    text-align: center;
+}
+
+#logo {
+    font-weight: 500;
+    font-family: 'Cormorant Unicase', serif;;
+}
+
+/*Balance -----------------------------------------*/ 
+
+
+/*Footer -----------------------------------------*/ 
+footer{
+    text-align: center;
+}
